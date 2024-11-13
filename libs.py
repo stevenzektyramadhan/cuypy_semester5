@@ -18,6 +18,7 @@ def exit_program():
     print("1...")
     sleep(1)
     print("program dihentikan ...")
+    exit()
     
     
 if __name__ == '__main__' :
